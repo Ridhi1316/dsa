@@ -1,2 +1,1 @@
-# dsa
-DSA PRACTICE
+# DSA
